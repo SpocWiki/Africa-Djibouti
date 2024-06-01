@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- DJI
 - Djibouti
 - جيبوتي
 - 吉布提
