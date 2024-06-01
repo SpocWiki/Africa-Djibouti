@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- DJ
 - DJI
 - Djibouti
 - جيبوتي
