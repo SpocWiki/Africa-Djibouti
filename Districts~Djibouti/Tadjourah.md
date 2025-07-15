@@ -40,11 +40,18 @@ markerFolder: ./Tadjourah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Djibouti/Counties/Tadjourah|Tadjourah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Djibouti/Counties/Tadjourah.public|Tadjourah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.internal|Tadjourah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Tadjourah.protect|Tadjourah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Djibouti/Counties/Tadjourah.private|Tadjourah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Tadjourah.personal|Tadjourah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Tadjourah.secret|Tadjourah.secret]] 
+
+### #is_/same_as :: [Tadjourah](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.md) 
+
+### #is_/same_as :: [Tadjourah.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.public.md) 
+
+### #is_/same_as :: [Tadjourah.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.internal.md) 
+
+### #is_/same_as :: [Tadjourah.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.protect.md) 
+
+### #is_/same_as :: [Tadjourah.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.private.md) 
+
+### #is_/same_as :: [Tadjourah.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.personal.md) 
+
+### #is_/same_as :: [Tadjourah.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Tadjourah.secret.md)
 

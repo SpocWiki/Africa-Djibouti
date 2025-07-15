@@ -139,10 +139,4 @@ Capital :: [[Djibouti]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Djibouti|Djibouti]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Djibouti.internal|Djibouti.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Djibouti.protect|Djibouti.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Djibouti.private|Djibouti.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Djibouti.personal|Djibouti.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Djibouti.secret|Djibouti.secret]] 
+
