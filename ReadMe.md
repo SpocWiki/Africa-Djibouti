@@ -1,37 +1,38 @@
 ---
 location:
-- 11.6
-- 43.1667
+  - 11.6
+  - 43.1667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26879
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Djibouti
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Djibouti
-- جيبوتي
-- 吉布提
-- Джибути
-- the Republic of Djibouti
-- la República de Djibouti
+  - Djibouti
+  - جيبوتي
+  - 吉布提
+  - Джибути
+  - the Republic of Djibouti
+  - la República de Djibouti
 Languages:
-- fr-DJ
-- ar
-- so-DJ
-- aa
+  - fr-DJ
+  - ar
+  - so-DJ
+  - aa
 ---
 
 
