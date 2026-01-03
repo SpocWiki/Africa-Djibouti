@@ -40,17 +40,17 @@ markerFolder: ./Obock/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obock](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock|Obock]] 
 
-### #is_/same_as :: [Obock.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.public|Obock.public]] 
 
-### #is_/same_as :: [Obock.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.internal|Obock.internal]] 
 
-### #is_/same_as :: [Obock.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.protect|Obock.protect]] 
 
-### #is_/same_as :: [Obock.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.private|Obock.private]] 
 
-### #is_/same_as :: [Obock.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.personal|Obock.personal]] 
 
-### #is_/same_as :: [Obock.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Obock.secret|Obock.secret]] 
 

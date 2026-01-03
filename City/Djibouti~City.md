@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Djibouti~City](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City|Djibouti~City]] 
 
-### #is_/same_as :: [Djibouti~City.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.public|Djibouti~City.public]] 
 
-### #is_/same_as :: [Djibouti~City.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.internal|Djibouti~City.internal]] 
 
-### #is_/same_as :: [Djibouti~City.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.protect|Djibouti~City.protect]] 
 
-### #is_/same_as :: [Djibouti~City.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.private|Djibouti~City.private]] 
 
-### #is_/same_as :: [Djibouti~City.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.personal|Djibouti~City.personal]] 
 
-### #is_/same_as :: [Djibouti~City.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Djibouti/City/Djibouti~City.secret|Djibouti~City.secret]] 
 

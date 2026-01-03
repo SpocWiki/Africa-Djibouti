@@ -40,17 +40,17 @@ markerFolder: ./Dikhil/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dikhil](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil|Dikhil]] 
 
-### #is_/same_as :: [Dikhil.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.public|Dikhil.public]] 
 
-### #is_/same_as :: [Dikhil.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.internal|Dikhil.internal]] 
 
-### #is_/same_as :: [Dikhil.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.protect|Dikhil.protect]] 
 
-### #is_/same_as :: [Dikhil.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.private|Dikhil.private]] 
 
-### #is_/same_as :: [Dikhil.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.personal|Dikhil.personal]] 
 
-### #is_/same_as :: [Dikhil.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Dikhil.secret|Dikhil.secret]] 
 

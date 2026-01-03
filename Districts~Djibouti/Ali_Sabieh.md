@@ -40,17 +40,17 @@ markerFolder: ./Ali_Sabieh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ali_Sabieh](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh|Ali_Sabieh]] 
 
-### #is_/same_as :: [Ali_Sabieh.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.public|Ali_Sabieh.public]] 
 
-### #is_/same_as :: [Ali_Sabieh.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.internal|Ali_Sabieh.internal]] 
 
-### #is_/same_as :: [Ali_Sabieh.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.protect|Ali_Sabieh.protect]] 
 
-### #is_/same_as :: [Ali_Sabieh.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.private|Ali_Sabieh.private]] 
 
-### #is_/same_as :: [Ali_Sabieh.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.personal|Ali_Sabieh.personal]] 
 
-### #is_/same_as :: [Ali_Sabieh.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Djibouti/Districts~Djibouti/Ali_Sabieh.secret|Ali_Sabieh.secret]] 
 
